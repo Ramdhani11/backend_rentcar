@@ -1,0 +1,10 @@
+POST http://127.0.0.1/backend_rentcar/public/api/cars
+
+Content-Type: application/json
+
+{
+  "merek":"Toyota Baleno",
+  "model":"Sedan",
+  "tarif":89000,
+  "no_plat":"D 1244 TR",
+}
